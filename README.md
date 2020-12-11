@@ -6,10 +6,11 @@ Document for dingdong project. <br>
 Dingdong is an mobile app for managing circles(social clubs) and to communicate with the members of the circle. It started as a project for Software Engineering
 class at HanYang University. It provides simple but useful functions for circle admins and members to use. This repository is for backend server of dingdong project.
 
-## Notion Link
+## Notion Link 
 [dingdong-notion](https://www.notion.so/ee081022fb234261b9534ddfcd7a67c9)
 
 ## Demo Link
+### ⚠️ Please turn on the subtitle! ⚠️
 [dingdong_demo](https://www.youtube.com/watch?v=3OvvbV-6EnE&t=188s)
 
 ## Contributors
